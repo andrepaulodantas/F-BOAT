@@ -4,7 +4,7 @@ This repository contains the ongoing development of the Nboat robots, software a
 
 master -> stable version
 
-nboat2 -> development
+nboat2 -> development.
 
 <p align="center">
   <img src="F-BOAT/docs/img/fboat.jpg" width="400" alt="Nboat2"/>
