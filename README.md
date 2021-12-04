@@ -7,7 +7,7 @@ master -> stable version
 nboat2 -> development............
 
 <p align="center">
-  <img src="F-BOAT/docs/img/fboat.jpg" width="400" alt="Nboat2"/>
+  <img src="./docs/img/fboat.jpg" width="400" alt="Nboat2"/>
 </p>
 
 
