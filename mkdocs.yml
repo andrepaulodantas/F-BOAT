@@ -4,3 +4,4 @@ extra_css: [extra.css]
 theme:
     name: mkdocs
     nav_style: dark
+
