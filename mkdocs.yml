@@ -1,7 +1,16 @@
+nav:
+    - 'index.md'
+    - 'sobre.md'
+    - 'contato.md'
+    - 'projeto.md'
+
+
 site_name: F-BOAT
 extra_css: [extra.css]
 
 theme:
     name: mkdocs
     nav_style: dark
+
+repo_url: https://github.com/andrepaulodantas/F-BOAT
 
